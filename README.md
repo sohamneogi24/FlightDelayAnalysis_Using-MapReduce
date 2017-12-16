@@ -3,7 +3,7 @@ INFO 7275 Advance Database Management Systems
 Airline On-Time statistics and arrival data analysis
 
 Introduction:
-According to the U.S Bureau of Transportation Statistics, more than 1 million flights were delayed between June 2015 to June 2016. This translates to nearly 64 million minutes’ worth of delay.
+According to the U.S Bureau of Transportation Statistics, more than 1 million flights were delayed between June 2015 to June 2016. This translates to nearly 64 million minutesâ€™ worth of delay.
 Considering all the delays and its types, it becomes necessary to consider the efficient way of travel.
 
 The aim of this project will be to use various Map Reduce design patterns like Summarization design pattern, Data Organization Patterns, Join Patterns and Filtering Patterns to graphically represent the following questions
@@ -57,3 +57,5 @@ Using Summarization pattern along with custom writable class, calculating the me
 7.	Airport Reviews
 Using Sentiment Analysis, finding the type of review for each airport
  
+ 
+ Thank you!
